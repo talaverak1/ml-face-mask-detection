@@ -1,5 +1,6 @@
 # ml-face-mask-detection
 Face Mask Detection using R-CNN
+
 A Research and Development project in Machine Learning. This project explores Face Mask Detection using R-CNN on an image set of classes, 
 mask worn incorrectly, without mask, and with mask.
 
