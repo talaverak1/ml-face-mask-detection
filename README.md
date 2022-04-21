@@ -31,3 +31,26 @@ Implementation
 
 
 For implementation the Python programming language was utilized through Pytorch in the Jupyter Notebook environment.
+
+This is project was a group effort with contributions from four additional people: 
+
+Ryan DePascale
+College of Science and Mathematics
+Montclair State University
+depascaler1@montclair.edu
+
+Phoebe Huang
+College of Science and Mathematics
+Montclair State University
+huangp1@montclair.edu
+
+Erika Linares
+College of Science and Mathematics
+Montclair State University
+linarese3@montclair.edu
+
+Rishi Patel
+College of Science and Mathematics
+Montclair State University
+patelr99@montclair.edu
+
